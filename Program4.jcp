@@ -1,0 +1,45 @@
+<?xml?>
+<project>
+	<settings>
+		<version>1.01</version>
+		<label>Program4</label>
+		<root_path>\</root_path>
+		<output_path>C:\Documents and Settings\Alex\My Documents\Computer Science\473\Program4\classes\</output_path>
+		<version>1.01</version>
+		<source_path>C:\Documents and Settings\Alex\My Documents\Computer Science\473\Program4\src\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>Main</run>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\demo10-1.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>src\RGB.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>src\SecInf.java</path>
+				<source>true</source>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
